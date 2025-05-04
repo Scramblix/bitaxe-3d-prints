@@ -34,11 +34,8 @@ If you’re printing your own case but need quality thermal components, we offer
 1g thermal paste (12.8 W/m·K) – The highest quality available on the market without resorting to liquid metal or electrically conductive compounds. 
 1x 99% isopropyl alcohol wipe for surface prep
 
-🔗 [Buy the Cooling Kit at Scramblix](https://scramblix.com/products/bitaxe-gamma-cooling-kit)
-
 We source all components directly from manufacturers to keep pricing lower than what you'd spend sourcing these in bulk yourself.
 
-🔗 Prefer to DIY Source?
 Here are links to the closest-matching parts:
 
 Heatsinks (14×14mm) – https://a.co/d/egEwzaz
